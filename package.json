@@ -1,0 +1,18 @@
+{
+  "name": "webpack-splitchunks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack --config webpack.dev.js --watch"
+  },
+  "author": "Dusan Perkovic",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.10.1",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
